@@ -5,9 +5,6 @@
 
 
 ## 🖥️ Tecnologias que eu uso no meu dia
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafDev88&hide_progress=true)
-
 <br/>
 
 
@@ -27,6 +24,12 @@
 <img align="left" alt="css" width="38px" style="padding-rigth: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
           
  </div>
+<br/>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafDev88&hide_progress=true)
+
+
 <br/>
 <br/>
 <br/>
