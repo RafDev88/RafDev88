@@ -1,11 +1,11 @@
-### Olá Eu sou Rafael ✌️ 
+### ☕ Olá Eu sou Rafael ✌️ 
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafDev88&show_icons=true&theme=dracula)
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafDev88&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafDev88&hide_progress=true)
+<div style="display:inline_block">
 
 
-## Tecnologias que eu uso no meu dia
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafDev88&hide_progress=true)
-<div style="display:inline_block"><br/>
+##🖥️ Tecnologias que eu uso no meu dia
+<br/>
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
